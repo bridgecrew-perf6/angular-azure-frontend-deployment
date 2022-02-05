@@ -1,2 +1,3 @@
-update the Projrct with
+Angular frontend to Deploy in Azure
+
 ng build --prod
